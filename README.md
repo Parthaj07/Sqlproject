@@ -25,6 +25,9 @@ python SQL.py
 The script demonstrates the following operations:
 
 Create: Creates a new registration record with provided details.
+
 Read: Retrieves a registration record based on the provided registration ID.
+
 Update: Updates an existing registration record with new details.
+
 Delete: Deletes a registration record based on the provided registration ID.
