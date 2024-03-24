@@ -1,13 +1,14 @@
-Registration Database CRUD Operations
+Registration Database CRUD Operations:
 
 This project demonstrates basic CRUD (Create, Read, Update, Delete) operations on a SQLite database for a registration system. The code allows you to perform operations such as creating, reading, updating, and deleting registration records.
 
-Requirements
+Requirements:
 
 Python 3
 SQLite (for storing registration data locally)
 
-Installation
+Installation:
+
 Clone the repository to your local machine:
 
 bash
@@ -17,7 +18,8 @@ Ensure you have Python 3 installed on your system.
 
 No additional installation is required as SQLite comes pre-installed with Python.
 
-Usage
+Usage:
+
 Run the SQL.py script to perform CRUD operations:
 python SQL.py
 The script demonstrates the following operations:
