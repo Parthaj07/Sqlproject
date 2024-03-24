@@ -1,4 +1,5 @@
 #Registration Database CRUD Operations
+
 This project demonstrates basic CRUD (Create, Read, Update, Delete) operations on a SQLite database for a registration system. The code allows you to perform operations such as creating, reading, updating, and deleting registration records.
 
 Requirements
