@@ -22,6 +22,7 @@ Usage:
 
 Run the SQL.py script to perform CRUD operations:
 python SQL.py
+
 The script demonstrates the following operations:
 
 Create: Creates a new registration record with provided details.
