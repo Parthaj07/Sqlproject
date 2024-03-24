@@ -11,9 +11,7 @@ Installation:
 
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your_username/registration-database-crud.git
+git clone https://github.com/Parthaj07/Sqlproject.git
 Ensure you have Python 3 installed on your system.
 
 No additional installation is required as SQLite comes pre-installed with Python.
