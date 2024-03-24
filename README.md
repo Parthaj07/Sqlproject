@@ -5,6 +5,7 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations o
 Requirements:
 
 Python 3
+
 SQLite (for storing registration data locally)
 
 Installation:
